@@ -1,1 +1,1 @@
-# data-visualization-del-coursel-2021
+# Repositório para as atividades do curso de "Visualização de Dados - Dell Lead 2021"
