@@ -1,4 +1,7 @@
-# Repositório para as atividades do curso de "Visualização de Dados - Dell Lead 2021"
+# "Visualização de Dados - Dell Lead 2021"
+
+>## Objetivo:
+> Esse repositório tem como objetivo armazenar os trabalhos propostos pelas Oficinas do curso "Visualização de Dados - Dell Lead 2021", apenas com fins didáticos e > não para consulta visando a fidelidade das informações exibidas.
 
 >Todas as atividades propostas realizadas durante o curso estão disponíveis na pasta [Oficina](https://github.com/vinicius-hso/data-visualization-dell-course-2021/tree/main/Oficina) juntamente com os Datasets utilizados. 
 >
