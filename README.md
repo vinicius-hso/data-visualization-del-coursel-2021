@@ -9,6 +9,7 @@
 
 >## Atividades:
 >Todas as atividades propostas realizadas durante o curso estão disponíveis na pasta [Oficina](https://github.com/vinicius-hso/data-visualization-dell-course-2021/tree/main/Oficina) juntamente com os Datasets utilizados. 
+>
 > Acesse as atividades:
 >
 > - [#01 - Consumo Mundial de Álcool em 2010](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%201.1.ipynb)
