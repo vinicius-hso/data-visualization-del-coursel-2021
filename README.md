@@ -1,4 +1,5 @@
 # "Visualização de Dados - Dell Lead 2021"
+Estudo de Visualização de Dados, Dell Lead 2021
 
 >## Objetivo:
 > Esse repositório tem como objetivo armazenar os trabalhos propostos pelas Oficinas do curso **"Visualização de Dados - Dell Lead 2021"**, apenas com fins didáticos e não para consulta visando a fidelidade das informações exibidas.
