@@ -16,3 +16,4 @@
 > - [#03 - Vendas de Vídeo Games](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%202.2.ipynb)
 > - [#04 - Dados Imobiliários do Brasil](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%203.1.ipynb)
 > - [#05 - Automóveis - Relação: Aceleração e Consumo de Combustível](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%203.2.ipynb)
+> - [#06 - Vendas Mensais](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%203.3.ipynb)
