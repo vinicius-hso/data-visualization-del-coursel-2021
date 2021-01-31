@@ -15,3 +15,4 @@
 > - [#02 - Filmes lançados entre 2007 e 2011](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%202.1.ipynb)
 > - [#03 - Vendas de Vídeo Games](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%202.2.ipynb)
 > - [#04 - Dados Imobiliários do Brasil](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%203.1.ipynb)
+> - [#05 - Automóveis - Relação: Aceleração e Consumo de Combustível](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%203.2.ipynb)
