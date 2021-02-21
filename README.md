@@ -19,3 +19,4 @@
 > - [#06 - Vendas Mensais](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%203.3.ipynb)
 > - [#07 - Titanic Dataset](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%204.1.ipynb)
 > - [#08 - MPG Dataset](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%204.2.ipynb)
+> - [#09] - Global Flights Dashboard()
