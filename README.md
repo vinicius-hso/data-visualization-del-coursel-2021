@@ -4,7 +4,7 @@
 > Esse repositório tem como objetivo armazenar os trabalhos propostos pelas Oficinas do curso **"Visualização de Dados - Dell Lead 2021"**, apenas com fins didáticos e não para consulta visando a fidelidade das informações exibidas.
 
 >## Sobre o Curso:
-> O curso apresenta os fundamentos da visualização de dados e as principais ferramentas utilizadas, através da linguagem **Python** e o ambiente **Jupyter Notebook**, juntamente com as bibliotecas **Pandas**, **Matplotlib** e **Seaborn**, com a tutoria de **Amanda Souza da Silva**.
+> O curso apresenta os fundamentos da visualização de dados e as principais ferramentas utilizadas, através da linguagem **Python** e o ambiente **Jupyter Notebook**, juntamente com as bibliotecas **Pandas**, **Matplotlib** e **Seaborn**, e **Elasticsearch** e **Kibana** para a criação de dashboards, com a tutoria de **Amanda Souza da Silva**.
 
 >## Atividades:
 >Todas as atividades propostas realizadas durante o curso estão disponíveis na pasta [Oficina](https://github.com/vinicius-hso/data-visualization-dell-course-2021/tree/main/Oficina) juntamente com os Datasets utilizados. 
@@ -23,3 +23,5 @@
 > As atividades seguintes foram desenvolvidas utilizando as ferramentas [Elasticsearch](https://www.elastic.co/) e [Kibana](https://www.elastic.co/kibana)
 > 
 > - [#09 - Global Flights Dashboard](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%205.pdf)
+> - [#10 - Mapas Dashboard](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%206%20-%20Mapas.pdf)
+> - [#11 - Tag Cloud](https://github.com/vinicius-hso/data-visualization-dell-course-2021/blob/main/Oficina/Oficina%20-%20Aula%207%20-%20Tag%20Cloud.png)
